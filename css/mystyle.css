@@ -1,0 +1,23 @@
+/* My Jumbotron style */
+
+
+.jumbotron {
+		background-image: url("OlgaT1.jpg");
+		background-size: cover;
+		color: #fd5112;
+		padding-top: 12%;
+		padding-bottom: 18%;
+	}	  
+	
+	  .jumbotron h1 {    
+		margin-top: -10%;
+		margin-bottom: 12%;
+		padding-left: 2%;   
+		}
+			  
+		.jumbotron p {    
+		  margin-top: -10%;
+		  margin-bottom: 11%;
+			font-size: 20px;
+			padding-left: 2%; 
+		}
